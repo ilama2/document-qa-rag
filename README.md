@@ -1,5 +1,5 @@
 
-# Features
+# RAG Workflow
 Load and process custom documents (PDF)
 
 Embed documents using sentence transformers
