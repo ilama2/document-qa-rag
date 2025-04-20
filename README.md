@@ -10,5 +10,5 @@ Retrieve relevant chunks with similarity search
 
 Use a language model  OpenAI to answer questions
 
-Evaluate results with 5–10 questions
+Evaluate results with 5 questions
 
